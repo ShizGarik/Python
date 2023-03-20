@@ -5,7 +5,7 @@
 
 from random import randint
 
-coin = 5          # колличество монет
+coin = randint(2,10)          # колличество монет
 countTails = 0    # Решка
 countEmblem = 0   # Герб
 
